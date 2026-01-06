@@ -2,12 +2,12 @@
 
 ### Software Engineer | Full-Stack & Backend | HFT & FinTech
 
-* [cite_start]🚀 **Experienced** in building scalable, low-latency backend systems and full-stack applications in High Frequency Trading and Healthcare domains on AWS[cite: 4, 55].
-* [cite_start]🛠️ **Proficient** in Python, TypeScript, and C++ for performance-critical applications and SDK development[cite: 12, 32, 56, 76].
-* [cite_start]🌐 **Full-Stack Expertise:** Led production releases of Node.js-based CRM infrastructure and engineered secure REST APIs with JWT-based authentication[cite: 5, 21].
-* [cite_start]☁️ **Cloud/DevOps:** Expert in automating infrastructure and container orchestration using Terraform, Kubernetes, and Docker for 20+ microservices[cite: 29, 65, 78].
-* [cite_start]📊 **Data Engineering:** Architected distributed platforms processing 1 PB of weekly market data and data planes handling 50K+ events/sec[cite: 27, 77, 79].
-* [cite_start]✅ **Code Quality:** Proven track record of increasing code coverage from 30% to 95% using Pytest, Pylint, and Pydantic[cite: 29, 80].
+* 🚀 **Experienced** in building scalable, low-latency backend systems and full-stack applications in High Frequency Trading and Healthcare domains on AWS
+* 🛠️ **Proficient** in Python, TypeScript, GO and C++ for performance-critical applications and SDK development
+* 🌐 **Full-Stack Expertise:** Led production releases of Node.js-based CRM infrastructure and engineered secure REST APIs with JWT-based authentication
+* ☁️ **Cloud/DevOps:** Expert in automating infrastructure and container orchestration using Terraform, Kubernetes, and Docker for 20+ microservices
+* 📊 **Data Engineering:** Architected distributed platforms processing 1 PB of weekly market data and data planes handling 50K+ events/sec
+* ✅ **Code Quality:** Proven track record of increasing code coverage from 30% to 95% using Pytest, Pylint, and Pydantic
 
 ---
 
@@ -23,11 +23,8 @@
 
 ---
 
-### 📈 GitHub Stats
-![Jai's GitHub stats](https://github-readme-stats.vercel.app/api?username=girkar27&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=girkar27&layout=compact&theme=dark)
+### 📫 Connect with me:### 📫 Connect with me:
 
----
-
-### 📫 Connect with me:
-[**LinkedIn**](https://linkedin.com/in/jai-girkar) | [**GitHub**](https://github.com/girkar27) | **Email:** jgirkar@binghamton.edu
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jai-girkar)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/girkar27)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jgirkar@binghamton.edu)
